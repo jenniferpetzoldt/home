@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon-Click-Here</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop-Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tickr-Homepage-Desktop-07" transform="translate(-1100.000000, -1155.000000)" fill="#BFBFBD">
+            <g id="02-Section-Feature-Preview" transform="translate(140.000000, 1154.000000)">
+                <g id="Group-2" transform="translate(784.000000, 0.000000)">
+                    <g id="Icon-Click-Here" transform="translate(176.000000, 0.000000)">
+                        <path d="M19.8652,13.8535 L12.3722,21.3465 C12.2782,21.4405 12.1512,21.4935 12.0182,21.4935 C11.8862,21.4935 11.7592,21.4405 11.6652,21.3465 L4.1722,13.8535 C4.0282,13.7105 3.9852,13.4965 4.0632,13.3085 C4.1402,13.1215 4.3062,12.9995 4.5092,12.9995 L9.0092,12.9995 L9.0192,5.5065 C9.0192,5.3745 9.0722,5.2475 9.1662,5.1535 C9.2602,5.0595 9.3872,5.0065 9.5192,5.0065 L14.5132,5.0065 C14.7892,5.0065 15.0152,5.2265 15.0152,5.5025 L15.0192,12.9965 L19.5122,12.9995 C19.7142,12.9995 19.8962,13.1215 19.9732,13.3085 C20.0512,13.4965 20.0082,13.7105 19.8652,13.8535 M12.0182,0.9995 C5.4012,0.9995 0.0182,6.3835 0.0182,12.9995 C0.0182,19.6175 5.4012,24.9995 12.0182,24.9995 C18.6352,24.9995 24.0182,19.6175 24.0182,12.9995 C24.0182,6.3835 18.6352,0.9995 12.0182,0.9995" id="Fill-101"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

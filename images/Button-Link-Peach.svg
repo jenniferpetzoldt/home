@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Button-Link</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="23.5" cy="23.5" r="23.5"></circle>
+        <filter x="-28.7%" y="-22.3%" width="157.4%" height="157.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0980392157   0 0 0 0 0.301960784   0 0 0 0 0.643137255  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Desktop-Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tickr-Homepage-Desktop-07" transform="translate(-1116.000000, -5636.000000)">
+            <g id="Group-12" transform="translate(-186.000000, 5117.000000)">
+                <g id="06-Section-Feature-04">
+                    <g id="Text-Feature-Copy-3" transform="translate(1012.000000, 140.000000)">
+                        <g id="Button-Link" transform="translate(0.000000, 384.000000)">
+                            <g transform="translate(298.000000, 0.000000)">
+                                <g id="Oval">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill="#FFB59E" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                                <path d="M32.339,24.3465198 L24.847,31.8405198 C24.75,31.9365198 24.622,31.9875198 24.493,31.9875198 C24.429,31.9875198 24.363,31.9745198 24.302,31.9485198 C24.114,31.8715198 23.993,31.6885198 23.993,31.4875198 L23.993,26.9925198 L16.5,26.9925198 C16.368,26.9925198 16.24,26.9405198 16.147,26.8465198 C16.053,26.7525198 16,26.6245198 16,26.4925198 L16,21.4985198 C16,21.2225198 16.224,20.9925198 16.5,20.9925198 L23.993,20.9925198 L23.993,16.4995198 C23.993,16.2975198 24.114,16.1155198 24.302,16.0375198 C24.489,15.9615198 24.703,16.0025198 24.847,16.1465198 L32.339,23.6395198 C32.534,23.8345198 32.534,24.1515198 32.339,24.3465198" id="Path" fill="#6889AB"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="406px" height="84px" viewBox="0 0 406 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Button-Download</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="376" height="54" rx="27"></rect>
+        <filter x="-7.3%" y="-32.4%" width="114.6%" height="201.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Desktop-Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tickr-Homepage-Desktop-07" transform="translate(-909.000000, -1284.000000)">
+            <g id="02-Section-Feature-Preview" transform="translate(140.000000, 1154.000000)">
+                <g id="Group-2" transform="translate(784.000000, 0.000000)">
+                    <g id="Button-Download" transform="translate(0.000000, 135.000000)">
+                        <g id="Navigation-Button-Background">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M56,24 L56,20 L60,24 L56,24 Z M60.854,23.146 L56.854,19.146 C56.76,19.053 56.632,19 56.5,19 L49.5,19 C49.224,19 49,19.224 49,19.5 L49,34.5 C49,34.776 49.224,35 49.5,35 L60.5,35 C60.776,35 61,34.776 61,34.5 L61,23.5 C61,23.367 60.947,23.24 60.854,23.146 L60.854,23.146 Z" id="Fill-1822" fill="#3880F9"></path>
+                        <text id="Navigation-List-Item-Text" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="20" letter-spacing="2" fill="#3880F9">
+                            <tspan x="79.359375" y="32">DOWNLOAD WHITEPAPER</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
