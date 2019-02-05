@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop-Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tickr-Homepage-Desktop-07" transform="translate(-219.000000, -570.000000)" fill="#3880F9">
+            <g id="01-Section-Header">
+                <g id="Navigation-Button" transform="translate(140.000000, 550.000000)">
+                    <path d="M79,20.7000764 C79,20.1834856 79.546041,19.8418917 80.013676,20.0742875 L92.6146211,26.3741755 C93.1284596,26.6317709 93.1284596,27.3681578 92.6146211,27.6257532 L80.013676,33.9256412 C79.5502413,34.1566371 79,33.8220431 79,33.2998523 L79,20.7000764 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
