@@ -281,6 +281,19 @@ body {
   grid-template-columns: auto auto;
 }
 
+.social-monitor-1 {
+  grid-column: 1 / 2;
+}
+
+.social-monitor-2 {
+  grid-column: 2 / 3;
+}
+
+.social-img {
+  max-width: 691px;
+  max-height: 746px;
+}
+
 .ad-network-monitor {
   display: grid;
   grid-template-columns: auto auto;
