@@ -1,6 +1,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
   margin-top: 0;
+  background-color: #FAFAFA;
 }
 
 .site-navigation { 
@@ -141,8 +142,8 @@ body {
   height: 699px;  
 }
 
-.news-monitor, .social-monitor, .add-network-monitor, .website-monitor, .crm-monitor, .quote, .info-links {
-  margin-right: 93px;
+.links, .news-monitor, .social-monitor, .add-network-monitor, .website-monitor, .crm-monitor, .quote, .info-links {
+  margin-right: 140px;
 }
 
 /* omni */
@@ -152,6 +153,7 @@ body {
   grid-template-columns: auto auto auto;
   grid-template-rows: auto auto auto auto;
   padding-left: 140px;
+  padding-top: 20px;
 }
 
 .omni::before {
@@ -169,18 +171,19 @@ body {
 .omni-1 {
   grid-column: 1 / 2;
   grid-row: 2 / 3;
+}
+
+.omni-title {
   font-size: 42px;
   font-weight: bold;
   max-height: 45px;
   max-width: 572px;
   color: #59646A;
   margin-top: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 37px;
 }
 
-.omni-2 {
-  grid-column: 1 / 2;
-  grid-row: 3 / 4;
+.omni-para {
   max-width: 572px;
   max-height: 95px;
   font-size: 20px;
@@ -223,12 +226,15 @@ body {
   color: #3880F9;
   border: 0px;
   border-radius: 30px;
-  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 50);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 50);
 }
 
+/* links */
 .links {
   display:grid;
   grid-template-columns: auto auto auto auto auto;
+  margin-left: 140px;
+  margin-bottom: 50px;
 }
 
 .links-1 {
@@ -251,24 +257,43 @@ body {
   grid-column: 5 / 6;
 }
 
+/* news monitor */
 .news-monitor {
   display: grid;
+  grid-template-columns: auto auto;
+}
+
+.news-monitor-1 {
+  grid-column: 1 / 2;
+}
+
+.news-monitor-2 {
+  grid-column: 2 / 3;
+}
+
+.news-img {
+  max-width: 650px;
+  max-height: 777px;
 }
 
 .social-monitor {
   display: grid;
+  grid-template-columns: auto auto;
 }
 
 .ad-network-monitor {
   display: grid;
+  grid-template-columns: auto auto;
 }
 
 .website-monitor {
   display: grid;
+  grid-template-columns: auto auto;
 }
 
 .crm-monitor {
   display: grid;
+  grid-template-columns: auto auto;
 }
 
 .quote {
