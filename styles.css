@@ -142,8 +142,12 @@ body {
   height: 699px;  
 }
 
-.links, .news-monitor, .social-monitor, .add-network-monitor, .website-monitor, .crm-monitor, .quote, .info-links {
+.links, .news-monitor, .social-monitor, .website-monitor, .crm-monitor, .info-links {
   margin-right: 140px;
+}
+
+.news-monitor, .social-monitor, .ad-network-monitor, .crm-monitor {
+  margin-left: 140px;
 }
 
 /* omni */
@@ -234,7 +238,7 @@ body {
   display:grid;
   grid-template-columns: auto auto auto auto auto;
   margin-left: 140px;
-  margin-bottom: 50px;
+  margin-bottom: 190px;
 }
 
 .links-1 {
@@ -257,6 +261,43 @@ body {
   grid-column: 5 / 6;
 }
 
+.feat-title, .feat-list, .feat-descript, .feat-para {
+  max-width: 474px;
+  color: rgba(89, 100, 106, 100);
+}
+
+.feat-title {
+  max-height: 24px;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 20px;
+  letter-spacing: 1.5px;
+}
+
+.feat-descript {
+  max-height: 132px;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.feat-para {
+  max-height: 84;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.feat-list {
+  max-height: 96px;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 28px;
+  letter-spacing: 2px;
+}
+
+.feat-link {
+
+}
+
 /* news monitor */
 .news-monitor {
   display: grid;
@@ -276,6 +317,7 @@ body {
   max-height: 777px;
 }
 
+/* social monitor */
 .social-monitor {
   display: grid;
   grid-template-columns: auto auto;
@@ -294,19 +336,61 @@ body {
   max-height: 746px;
 }
 
+/* ad network monitor */
 .ad-network-monitor {
   display: grid;
   grid-template-columns: auto auto;
 }
 
+.ad-network-monitor-1 {
+  grid-column: 1 / 2;
+}
+
+.ad-network-monitor-2 {
+  grid-column: 2 / 3;
+}
+
+.ad-network-img {
+  max-width: 810px;
+  max-height: 900px;
+}
+
+/* website monitor */
 .website-monitor {
   display: grid;
   grid-template-columns: auto auto;
 }
 
+.website-monitor-1 {
+  grid-column: 1 / 2;
+}
+
+.website-monitor-2 {
+  grid-column: 2 / 3;
+}
+
+.website-img {
+  max-width: 712px;
+  max-height: 720px;
+}
+
+/* crm monitor */
 .crm-monitor {
   display: grid;
   grid-template-columns: auto auto;
+}
+
+.crm-monitor-1 {
+  grid-column: 1 / 2;
+}
+
+.crm-monitor-2 {
+  grid-column: 2 / 3;
+}
+
+.crm-img {
+  max-height: 670px;
+  max-width: 654px;
 }
 
 .quote {
@@ -318,9 +402,6 @@ body {
 }
 
 /* footer css */
-.copy-right {
-  text-align: center;
-}
 
 .footer-container {
   display: grid;
@@ -342,4 +423,9 @@ body {
 
 .footer-item4 {
   grid-column: 4 / 5;
+}
+
+.copy-right {
+  text-align: center;
+ 
 }
