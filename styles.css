@@ -1,3 +1,8 @@
+html {
+  /* scroll behavior not supported by safari */
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
   margin-top: 0;
@@ -34,8 +39,6 @@ body {
   .active-link > a {
     color: #999;
   }
-
-
 
 .logo {
     background: url(https://static1.squarespace.com/static/5c50a484f2e6b1e653d29567/t/5c535f66f4e1fc96ef288404/1548967783017/tickr-logo.svgg) no-repeat;  
@@ -158,6 +161,7 @@ body {
   grid-template-rows: auto auto auto auto;
   padding-left: 140px;
   padding-top: 20px;
+  max-height: 285px;
 }
 
 .omni::before {
@@ -218,8 +222,8 @@ body {
 
 .omni-5 {
   grid-column: 2 / 3;
-  grid-row: 3 / 4;
-  margin-top: 0;
+  grid-row: 2 / 3;
+  margin-top: 135px;
   margin-bottom: 100px;
   height: 54px;
   max-width: 376px;
@@ -302,10 +306,13 @@ body {
 .news-monitor {
   display: grid;
   grid-template-columns: auto auto;
+  max-height: 777px;
+  margin-bottom: 364px;
 }
 
 .news-monitor-1 {
   grid-column: 1 / 2;
+  padding-top: 200px;
 }
 
 .news-monitor-2 {
@@ -321,6 +328,8 @@ body {
 .social-monitor {
   display: grid;
   grid-template-columns: auto auto;
+  max-height: 746px;
+  margin-bottom: 297px;
 }
 
 .social-monitor-1 {
@@ -332,14 +341,15 @@ body {
 }
 
 .social-img {
-  max-width: 691px;
-  max-height: 746px;
+  max-width: 617px;
+  max-height: 553px;
 }
 
 /* ad network monitor */
 .ad-network-monitor {
   display: grid;
   grid-template-columns: auto auto;
+  margin-bottom: 297px;
 }
 
 .ad-network-monitor-1 {
@@ -355,10 +365,17 @@ body {
   max-height: 900px;
 }
 
+.dark-blue-background {
+  background: url("images/Background-dark-blue.svg");
+  height: 1645.68px;
+  width: 1440px;
+}
+
 /* website monitor */
 .website-monitor {
   display: grid;
   grid-template-columns: auto auto;
+  margin-bottom: 297px;
 }
 
 .website-monitor-1 {
@@ -378,6 +395,7 @@ body {
 .crm-monitor {
   display: grid;
   grid-template-columns: auto auto;
+  margin-bottom: 300px;
 }
 
 .crm-monitor-1 {

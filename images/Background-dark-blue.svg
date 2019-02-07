@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="2059px" viewBox="0 0 1440 2059" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Header-Background Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="41.8141152%" y1="4.61889886%" x2="68.2854563%" y2="102.466969%" id="linearGradient-1">
+            <stop stop-color="#7899BA" offset="0%"></stop>
+            <stop stop-color="#193E62" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tickr-Homepage-Desktop-07" transform="translate(0.000000, -5117.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Group-12" transform="translate(-186.000000, 5117.000000)">
+                <path d="M1626,225 L1626,1870.68256 L1626,2032.83987 C1531.6738,2058.54866 1414.00713,2065.07576 1273,2052.42118 C1061.4893,2033.4393 909.248037,1960.50894 653.624019,1923.54424 C483.208006,1898.9011 327.333333,1901.89824 186,1932.53565 L186,1870.68256 L186,225 L186,126.146908 C327.333333,156.784321 483.208006,159.781459 653.624019,135.138323 C909.248037,98.1736189 1061.4893,25.2432573 1273,6.26138236 C1414.00713,-6.39320094 1531.6738,0.133899922 1626,25.8426849 L1626,225 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

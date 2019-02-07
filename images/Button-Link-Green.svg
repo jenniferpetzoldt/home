@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+<svg width="409px" height="63px" viewBox="0 0 409 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
     <title>Button-Link</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -12,10 +12,14 @@
         </filter>
     </defs>
     <g id="Desktop-Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Tickr-Homepage-Desktop-07" transform="translate(-486.000000, -4501.000000)">
+        <g id="Tickr-Homepage-Desktop-07" transform="translate(-140.000000, -4501.000000)">
             <g id="05-Section-Feature-03" transform="translate(140.000000, 3917.000000)">
                 <g id="Text-Feature-Copy-2" transform="translate(0.000000, 205.000000)">
                     <g id="Button-Link" transform="translate(0.000000, 384.000000)">
+                        <text id="Text-Link" font-family="Montserrat-Bold, Montserrat" font-size="20" font-weight="bold" line-spacing="32" letter-spacing="2" fill="#0DCB8B">
+                            <tspan x="0" y="27">SEE AD NETWORK MONITO</tspan>
+                            <tspan x="329.02" y="27">R</tspan>
+                        </text>
                         <g transform="translate(354.000000, 0.000000)">
                             <g id="Oval">
                                 <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
