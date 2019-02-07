@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="882px" viewBox="0 0 1440 882" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>11-Section-Footer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="29.2384665%" y1="31.2421875%" x2="58.1228942%" y2="85.6210702%" id="linearGradient-1">
+            <stop stop-color="#178AF0" offset="0%"></stop>
+            <stop stop-color="#1E26A1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tickr-Homepage-Desktop-07" transform="translate(0.000000, -9149.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="11-Section-Footer" transform="translate(0.000000, 9149.000000)">
+                <polygon id="Footer-Background-Top" points="0 0 1440 0 1440 882 1104.55907 882 718.799914 882 324.828809 882 0 882"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
