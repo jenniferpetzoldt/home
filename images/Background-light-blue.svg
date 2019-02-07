@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1842px" viewBox="0 0 1440 1842" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Header-Background</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="41.3691159%" y1="100%" x2="25.4588527%" y2="-6.32437185%" id="linearGradient-1">
+            <stop stop-color="#F3F9FF" offset="0%"></stop>
+            <stop stop-color="#D0E0FB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tickr-Homepage-Desktop-07" transform="translate(0.000000, -3422.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <polygon id="Header-Background" points="0 3422 1440 3422 1440 5264 1104.55907 5264 718.799914 5264 324.828809 5264 0 5264"></polygon>
+        </g>
+    </g>
+</svg>

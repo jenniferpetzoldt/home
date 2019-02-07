@@ -367,8 +367,15 @@ body {
 
 .dark-blue-background {
   background: url("images/Background-dark-blue.svg");
-  height: 1645.68px;
-  width: 1440px;
+  max-height: 1645.68px;
+  max-width: 1440px;
+}
+
+.ad-network-monitor::before {
+  background: url("images/Background-light-blue.svg");
+  margin-top: -392px;
+  max-height: 1842px;
+  max-width: 1440px;
 }
 
 /* website monitor */
